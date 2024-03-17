@@ -1,0 +1,20 @@
+.header{
+background-color: rgb(4, 4, 44);
+}
+.nav-item .nav-link{
+    color: white;
+}
+.nav-item .nav-link:hover{
+    color: white;
+    font-weight: bold;
+}
+.us-manage{
+    background-color: rgb(4, 4, 44);
+    }
+.Our-Pricing .shoadow:hover{
+background-color: rgb(14, 88, 88);
+color: white;
+}
+.fotter{
+    background-color: rgb(4, 4, 44);
+    }
